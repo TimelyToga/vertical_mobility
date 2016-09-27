@@ -11,7 +11,12 @@ The Vertical Mobility Initiative is the collection of individuals who aim to wor
 
 The Vertical Mobility Initiative hopes to disruptively provide both the means and incentives for the world's underpriviledged to move vertically to a new position of financial and social stability. 
 
-## How Can This Happen?
+# Projects
+
+* [Student Competitions](https://github.com/TimelyToga/vertical_mobility/blob/master/student_competions.md)
+* More to come!
+
+# How Can This Happen?
 While I have ideas about how this all is going to work, I am not foolish enough to believe that I alone can change the course of millions of children's lives around the world. I do believe that we can collaboratively create programs to provide radical improvements to the lives of people all over planet Earth. 
 
 If you are at all interested in this iniative, please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSfqob5ivFIcWvqnm6g80kQJWXedQC8uobnCgnoXLgWtZ381zA/viewform)!
